@@ -1,7 +1,7 @@
 
 # clinic-database
 
-> This is a clinic database that has    medical histories , patients , treatments, invoices, and invoices items.
+> This is a clinic database that has    medical histories , patients , treatments, invoices, and invoices items columns.
 
 <img src="./drawSQL.png">
 
